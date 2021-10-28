@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PatientsList>
+  <patient id="1">
+    <name>Rafael</name>
+    <email>rafael_martorano@hotmail.com</email>
+    <birthDate>04/08/1997</birthDate>
+    <address>Log: Avenida João Polidori, Bairro: Jardim São José, cidade: Bragança Paulista, estado: SP</address>
+  </patient>
+  <patient id="2">
+    <name>João Qualquer</name>
+    <email>joao@hotmail.com</email>
+    <birthDate>01/01/1990</birthDate>
+    <address>Logradouro: Rua Reverendo José Ferraz, Bairro: Núcleo Habitacional Padre Aldo Bolini, Cidade: Bragança Paulista, Estado: SP</address>
+  </patient>
+</PatientsList>
+
